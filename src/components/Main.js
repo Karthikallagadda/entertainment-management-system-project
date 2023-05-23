@@ -8,7 +8,7 @@ function CarouselFadeExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://images.pexels.com/photos/11351907/pexels-photo-11351907.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+          src="https://www.woodgateclub.com.au/media/1085/liveenterainment.jpg?width=0&height=0
           "
           alt="First slide"
         />
@@ -20,7 +20,7 @@ function CarouselFadeExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://images.pexels.com/photos/11981162/pexels-photo-11981162.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="https://th.bing.com/th/id/OIP.o2_iLGCrP-5GMfI8xGkhWgHaDh?w=327&h=166&c=7&r=0&o=5&dpr=1.25&pid=1.7"
           alt="Second slide"
         />
 
@@ -32,7 +32,7 @@ function CarouselFadeExample() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="https://images.pexels.com/photos/7856735/pexels-photo-7856735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2/"
+          src="https://andyzandy.com/wp-content/uploads/2016/05/Josh-4th-Birthday089-1-1.jpg"
           alt="Third slide"
         />
 
